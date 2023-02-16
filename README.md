@@ -1,2 +1,2 @@
-# Breast Cancer Subtype Data_Analysis
+# Breast Cancer Subtype Data Analysis
 This is a breast cancer data analysis project to address the subtypes information.
